@@ -1,0 +1,15 @@
+{
+  "type": "evantech:item_damage_shapeless",
+  "ingredients": [
+    {
+      "item": "evantech:iron_stick"
+    },
+    {
+      "item": "evantech:iron_file"
+    }
+  ],
+  "result": {
+    "item": "evantech:iron_screw",
+    "count": 1
+  }
+}

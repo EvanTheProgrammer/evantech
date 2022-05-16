@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#/#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "evantech:copper_wire"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "evantech:copper_wire_coil"
+  }
+}

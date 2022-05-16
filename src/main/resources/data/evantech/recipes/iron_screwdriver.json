@@ -1,0 +1,26 @@
+{
+  "type": "evantech:item_damage_shaped",
+  "pattern": [
+    " #i",
+    " iI",
+    "/  "
+  ],
+  "key": {
+    "#": {
+      "item": "evantech:iron_file"
+    },
+    "i": {
+      "item": "evantech:iron_stick"
+    },
+    "I": {
+      "item": "evantech:iron_hammer"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "evantech:iron_screwdriver",
+    "count": 1
+  }
+}

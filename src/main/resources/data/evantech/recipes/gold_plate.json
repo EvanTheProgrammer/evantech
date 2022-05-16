@@ -1,0 +1,17 @@
+{
+  "type": "evantech:item_damage_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "evantech:iron_hammer"
+    }
+  ],
+  "result": {
+    "item": "evantech:gold_plate"
+  }
+}

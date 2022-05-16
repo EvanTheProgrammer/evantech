@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "evantech:block/crude_charger",
+    "end": "evantech:block/crude_charger_top"
+  }
+}

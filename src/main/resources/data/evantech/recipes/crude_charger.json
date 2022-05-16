@@ -1,0 +1,31 @@
+{
+  "type": "evantech:item_damage_shaped",
+  "pattern": [
+    "hbs",
+    "eSe",
+    "pbp"
+  ],
+  "key": {
+    "h": {
+      "item": "evantech:iron_hammer"
+    },
+    "s": {
+      "item": "evantech:iron_screwdriver"
+    },
+    "b": {
+      "item": "evantech:crude_battery"
+    },
+    "S": {
+      "item": "evantech:iron_screw"
+    },
+    "e": {
+      "item": "evantech:electron_tube"
+    },
+    "p": {
+      "item": "evantech:iron_plate"
+    }
+  },
+  "result": {
+    "item": "evantech:crude_charger"
+  }
+}

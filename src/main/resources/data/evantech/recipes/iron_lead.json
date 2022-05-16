@@ -1,0 +1,15 @@
+{
+  "type": "evantech:item_damage_shapeless",
+  "ingredients": [
+    {
+      "item": "evantech:iron_wire"
+    },
+    {
+      "item": "evantech:iron_pliers"
+    }
+  ],
+  "result": {
+    "item": "evantech:iron_lead",
+    "count": 4
+  }
+}

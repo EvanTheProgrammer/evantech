@@ -1,0 +1,25 @@
+{
+  "type": "evantech:item_damage_shaped",
+  "pattern": [
+    "chc",
+    "iri",
+    "iri"
+  ],
+  "key": {
+    "c": {
+      "item": "evantech:copper_plate"
+    },
+    "h": {
+      "item": "evantech:iron_hammer"
+    },
+    "i": {
+      "item": "evantech:iron_plate"
+    },
+    "r": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "evantech:crude_battery"
+  }
+}

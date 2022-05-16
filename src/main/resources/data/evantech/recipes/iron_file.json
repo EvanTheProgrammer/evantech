@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i",
+    "i",
+    "/"
+  ],
+  "key": {
+    "i": {
+      "item": "evantech:iron_plate"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "evantech:iron_file",
+    "count": 1
+  }
+}

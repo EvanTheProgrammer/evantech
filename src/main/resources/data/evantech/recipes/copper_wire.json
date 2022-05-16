@@ -1,0 +1,15 @@
+{
+  "type": "evantech:item_damage_shapeless",
+  "ingredients": [
+    {
+      "item": "evantech:copper_plate"
+    },
+    {
+      "item": "evantech:iron_pliers"
+    }
+  ],
+  "result": {
+    "item": "evantech:copper_wire",
+    "count": 4
+  }
+}

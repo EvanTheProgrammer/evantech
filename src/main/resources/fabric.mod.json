@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "evantech",
+  "version": "${version}",
+  "name": "EvanTech",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "evangamer2018.evantech.client.EvanTechClient"
+    ],
+    "main": [
+      "evangamer2018.evantech.EvanTech"
+    ]
+  },
+  "mixins": [
+    "evantech.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.2"
+  }
+}

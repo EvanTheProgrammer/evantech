@@ -1,0 +1,32 @@
+{
+  "item.evantech.iron_hammer": "Iron Hammer",
+  "item.evantech.iron_file": "Iron File",
+  "item.evantech.iron_screwdriver": "Iron Screwdriver",
+  "item.evantech.iron_pliers": "Iron Pliers",
+
+  "item.evantech.iron_plate": "Iron Plate",
+  "item.evantech.gold_plate": "Gold Plate",
+  "item.evantech.copper_plate": "Copper Plate",
+
+  "item.evantech.iron_wire": "Iron Wire",
+  "item.evantech.gold_wire": "Gold Wire",
+  "item.evantech.copper_wire": "Copper Wire",
+
+  "item.evantech.iron_wire_coil": "Iron Wire Coil",
+  "item.evantech.gold_wire_coil": "Gold Wire Coil",
+  "item.evantech.copper_wire_coil": "Copper Wire Coil",
+
+  "item.evantech.iron_lead": "Iron Lead",
+  "item.evantech.gold_lead": "Gold Lead",
+
+  "item.evantech.iron_stick": "Iron Stick",
+  "item.evantech.iron_screw": "Iron Screw",
+
+  "item.evantech.electron_tube": "Electron Tube",
+
+  "item.evantech.crude_battery": "Crude Battery",
+
+  "block.evantech.crude_charger": "Crude Charger",
+
+  "itemGroup.evantech.evantech": "Evan Tech"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "evantech:item_damage_shaped",
+  "pattern": [
+    "ifi",
+    "his",
+    "/S/"
+  ],
+  "key": {
+    "i": {
+      "item": "evantech:iron_plate"
+    },
+    "h": {
+      "item": "evantech:iron_hammer"
+    },
+    "f": {
+      "item": "evantech:iron_file"
+    },
+    "s": {
+      "item": "evantech:iron_screwdriver"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "evantech:iron_screw"
+    }
+  },
+  "result": {
+    "item": "evantech:iron_pliers"
+  }
+}

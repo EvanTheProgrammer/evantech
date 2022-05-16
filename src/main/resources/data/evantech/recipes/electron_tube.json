@@ -1,0 +1,32 @@
+{
+  "type": "evantech:item_damage_shaped",
+  "pattern": [
+    "#D#",
+    "CNC",
+    "/E/"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "C": {
+      "item": "evantech:copper_wire"
+    },
+    "D": {
+      "item": "evantech:iron_screwdriver"
+    },
+    "N": {
+      "item": "evantech:iron_screw"
+    },
+    "/": {
+      "item": "evantech:iron_lead"
+    },
+    "E": {
+      "item": "evantech:gold_lead"
+    }
+  },
+  "result": {
+    "item": "evantech:electron_tube",
+    "count": 1
+  }
+}
